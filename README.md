@@ -24,6 +24,9 @@ CRYPTOCURRENCY PAGE:
 CRYPTO DETAILS:
 ![Screenshot 2025-03-22 192651](https://github.com/user-attachments/assets/c4e9533d-6ef2-44ae-903e-751a71d0c4a1)
 
+CRYPTO DETAILS - Chart.js
+![Screenshot 2025-03-22 192630](https://github.com/user-attachments/assets/943436ba-3ba3-4a5f-8ecb-1d9310efae0e)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
