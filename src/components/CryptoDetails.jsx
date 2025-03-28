@@ -25,7 +25,7 @@ const { Option } = Select;
 const CryptoDetails = () => {
   // Get the coin ID from the URL params
   const { coinId } = useParams();
-  console.log('Coin ID:',coinId);
+  
 
   // State for time period selection
   const [timePeriod, setTimePeriod] = useState('7d');

@@ -5,7 +5,7 @@ import {Nevbar, Exchanges, Homepage, Cryptocurrencies, News, CryptoDetails } fro
 import './App.css'
 
 const App = () => {
-  console.log('🟠 App is rendering...');
+  
   return (
     <div className="app">
         <div className="navbar">

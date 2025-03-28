@@ -17,10 +17,10 @@ ChartJS.register(LineElement, CategoryScale, LinearScale, PointElement);
 
 
 const LineChart = ({coinHistory, currentPrice, coinName,error}) => {
-  console.log('coinHistory Response:', coinHistory);
+  
 
   if (error) {
-    console.error('API Error:', error);
+    
     return <Alert message="Error fetching chart data. Please try again." type="error" />;
   }
 

@@ -19,7 +19,7 @@ const News = ({ simplified }) => {
   
   // Error state
   if (error) {
-    console.log("❌ API Error:", error);
+    
     return <Alert message={`Error fetching news: ${error?.message || 'Unknown error'}`} type="error" />;
   }
   
@@ -29,7 +29,7 @@ const News = ({ simplified }) => {
   }
   // Determine which property to use based on availability
   const newsArticles = cryptoNews?.data || cryptoNews?.value || cryptoNews?.articles || [];
-  console.log('newsArticles:', newsArticles);
+  
 
   const displayedArticles = newsArticles.slice(0, simplified? 6 : 90 ) ;
 
