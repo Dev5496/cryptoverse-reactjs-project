@@ -96,3 +96,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#About News Page 
+The News API not working on our platform. The issue has arisen because the API now requires a paid subscription, which affects the ability to fetch and display the latest cryptocurrency news.
+
+
